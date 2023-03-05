@@ -1,0 +1,25 @@
+.introduction {
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url(../../assest/imgases/background.jpeg);
+  background-size: 100% 100%;
+}
+
+.introduction_block {
+  max-width: 380px;
+  display: flex;
+  flex-direction: column;
+  row-gap: 21px;
+  margin: auto;
+  padding: 164px 0 162px;
+}
+
+.introduction_header,
+.introduction_block p {
+  display: block;
+  text-align: center;
+  color: var(--c-white);
+}
+
+.introduction_block button {
+  margin: 12px auto 0;
+}
