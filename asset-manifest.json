@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/abz_test/static/css/main.1e0a2a5a.css",
-    "main.js": "/abz_test/static/js/main.0c05fc5f.js",
+    "main.css": "/abz_test/static/css/main.efc58f7e.css",
+    "main.js": "/abz_test/static/js/main.43c8613a.js",
     "static/media/background.jpeg": "/abz_test/static/media/background.be7665f876bbd9138501.jpeg",
     "static/media/Nunito-Regular.ttf": "/abz_test/static/media/Nunito-Regular.bedc35fb703c0b2d1fd5.ttf",
+    "static/media/success.svg": "/abz_test/static/media/success.147ff01aeb0caaca03a3a94cfe9c0ce6.svg",
     "static/media/Logo.svg": "/abz_test/static/media/Logo.8bb55362d01d55393ccc5476d96f0c14.svg",
     "index.html": "/abz_test/index.html",
-    "main.1e0a2a5a.css.map": "/abz_test/static/css/main.1e0a2a5a.css.map",
-    "main.0c05fc5f.js.map": "/abz_test/static/js/main.0c05fc5f.js.map"
+    "main.efc58f7e.css.map": "/abz_test/static/css/main.efc58f7e.css.map",
+    "main.43c8613a.js.map": "/abz_test/static/js/main.43c8613a.js.map"
   },
   "entrypoints": [
-    "static/css/main.1e0a2a5a.css",
-    "static/js/main.0c05fc5f.js"
+    "static/css/main.efc58f7e.css",
+    "static/js/main.43c8613a.js"
   ]
 }
